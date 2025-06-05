@@ -8,3 +8,6 @@ Brach pull request
 
 # Pull Test
 Pull Test
+
+# PR Type
+Test
