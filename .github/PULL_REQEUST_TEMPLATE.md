@@ -1,3 +1,3 @@
-# pr type
+## pr type
 
-# pr 이유
+## pr 이유
